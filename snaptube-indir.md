@@ -27,7 +27,7 @@ Boyut: 9,04 MB<br />
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-<a href="http://www.snaptubeindir.com/snaptube-4-26-0-9624.apk" target="_blank">İndir</a>
+<a target="_blank" href="http://www.luckypatcher.mobi/#snaptube" target="_blank">İndir</a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Esneking -->
 <ins class="adsbygoogle"
