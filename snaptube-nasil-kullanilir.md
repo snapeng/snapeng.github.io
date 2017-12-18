@@ -21,23 +21,23 @@ permalink: /snaptube-nasil-kullanilir
 <li>Üst tarafta da bir arama kutusu var. O arama kısmına indireceğiniz videoyla ilgili bir anahtar kelime yazarsanız, o anahtar kelimeye dair bütün videolar önünüze çıkacaktır. Hangi videoyu indirmek isterseniz yanındaki "SARI OK" simgesine tıklayın. Videoyu ister mp3 olarak, ister video olarak bütün çözünürlüklerde kolaylıkla indirin.</li>
 </ol>
 
-<strong>Snaptube ücretsiz mi?</strong>
+<strong>Snaptube ücretsiz mi?</strong><br />
 Tamamen ücretsiz. Kullanımı, indirmesi her şeyi ücretsiz.
 
-<strong>Snaptube'u Google Play Store'dan İndiremez miyim?</strong>
+<strong>Snaptube'u Google Play Store'dan İndiremez miyim?</strong><br />
 Hayır. Youtube üzerinden video indirmeyi Google Politikaları telif hakları sebebiyle yasaklamıştır. Bu yüzden bu tarz uygulamaların hiçbiri Google Play Store'a kabul edilmez.
 
-<strong>Snaptube iOS sürümü var mı?</strong>
+<strong>Snaptube iOS sürümü var mı?</strong><br />
 Şimdilik yok. Ama ileride olmayacağı anlamına gelmez.
 
-<strong>Snaptube ile nasıl video indiririm?</strong>
+<strong>Snaptube ile nasıl video indiririm?</strong><br />
 İndirmek istediğiniz videoyu bulduğunuz zaman sağ alt tarafta "SARI OK" simgesi var. Ona tıklayın ve çözünürlüğü seçin. İşte bu kadar!
 
-<strong>Videoyu nasıl bulacağım?</strong>
+<strong>Videoyu nasıl bulacağım?</strong><br />
 Uygulamanın en üstüne bakın! Orada arama kısmı var. Aradığınız videoya dair bir kelime yazın ve videoyu bulun.
 
-<strong>Arama sonuçları çok karmaşık, nasıl filtrelerim?</strong>
+<strong>Arama sonuçları çok karmaşık, nasıl filtrelerim?</strong><br />
 Arama sonuçları sayfasının en altına inin ve Tarih, Süre, Boyut gibi birçok filtreden istediğinizi seçin.
 
-<strong>Snaptube nasıl güncellenir?</strong>
+<strong>Snaptube nasıl güncellenir?</strong><br />
 Güncelleme geldiği zaman uygulamamızda bildirim çıkacaktır. Oradan gerekli güncellemeyi yapabilirsiniz. Ancak bazı cihazlarda sorun çıkartabilir. Sorun çıkarsa uygulamayı telefonunuzdan silin ve sitemize gelip yeniden son sürümü indirin.
