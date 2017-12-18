@@ -36,12 +36,12 @@ SnapTube kurulumu gayet basit bir apk. Kurulumu ilk olarak madde madde, sonra re
 
 <strong>A. Madde Madde SnapTube Kurulumu</strong>
 <ul><li>Sitemizden uygulamayı indirin. Ardından cihazınızın bildirim çubuğundan inen .apk uzantılı dosyaya tıklayın.</li>
-     <li>Uygulamamız Google Play'de olmadığından ötürü (neden olmadığını aşağıda açıkladık) size "Bilinmeyen Kaynaklardan yüklemeye izin ver" şeklinde bir uyarı verecektir. Alttaki resimde de görebilirsiniz. Bu uyarıyı verirse: Ayarlar > Güvenlik > Bilinmeyen kaynaklara izin ver seçeneğini işaretleyin.</li>
+<li>Uygulamamız Google Play'de olmadığından ötürü (neden olmadığını aşağıda açıkladık) size "Bilinmeyen Kaynaklardan yüklemeye izin ver" şeklinde bir uyarı verecektir. Alttaki resimde de görebilirsiniz. Bu uyarıyı verirse: Ayarlar > Güvenlik > Bilinmeyen kaynaklara izin ver seçeneğini işaretleyin.</li>
 <li>Kurulum otomatik olarak tamamlanacak ve uygulamamızın simgesi cihazınızın ana ekranına gelecektir.</li>
      </ul>
 
 <strong>B. Resimli Anlatım</strong>
-<img src="http://www.snaptubeindir.com/snaptube.jpg"></a>
+<img src="http://www.snaptubeindir.com/snaptube.jpg">
 
 <strong>C. Videolu Anlatım</strong><br>
 <a target="_blank" rel="nofollow" href="https://www.youtube.com/watch?v=K-y3gcN9c40">https://www.youtube.com/watch?v=K-y3gcN9c40</a>
