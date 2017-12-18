@@ -29,29 +29,22 @@ Virüs Taraması Sonucu: <span style="color:green;">Temiz &#10004;</span><br/>
 </script>
 </center>
 <a target="_blank" href="http://www.snaptubeindir.com/snaptube-4-26-0-9624.apk" target="_blank">İndir</a>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Esneking -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4659442398"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 </center>
-<h2>1. SnapTube Nasıl Kurulur?</h2>
+<h2>SnapTube Nasıl Kurulur?</h2>
 SnapTube kurulumu gayet basit bir apk. Kurulumu ilk olarak madde madde, sonra resimli, sonra da videolu olarak sizlere anlatacağız. Okumayı sevmiyorsanız direk resimli anlatıma bakabilir veya direkt videolu anlatımı izleyebilirsiniz.
 
-A. Madde Madde SnapTube Kurulumu
-<ul><li></li>
+<strong>A. Madde Madde SnapTube Kurulumu</strong>
+<ul><li>Sitemizden uygulamayı indirin. Ardından cihazınızın bildirim çubuğundan inen .apk uzantılı dosyaya tıklayın.</li>
+     <li>Uygulamamız Google Play'de olmadığından ötürü (neden olmadığını aşağıda açıkladık) size "Bilinmeyen Kaynaklardan yüklemeye izin ver" şeklinde bir uyarı verecektir. Alttaki resimde de görebilirsiniz. Bu uyarıyı verirse: Ayarlar > Güvenlik > Bilinmeyen kaynaklara izin ver seçeneğini işaretleyin.</li>
+<li>Kurulum otomatik olarak tamamlanacak ve uygulamamızın simgesi cihazınızın ana ekranına gelecektir.</li>
      </ul>
 
-B. Resimli Anlatım
-<img src="http://www.snaptubeindir.com/snaptube.jpg">
+<strong>B. Resimli Anlatım</strong>
+<img src="http://www.snaptubeindir.com/snaptube.jpg"></a>
 
-C. Videolu Anlatım
-SnapTube Kurulumu ve Kullanımı: <a target="_blank" rel="nofollow" href="https://www.youtube.com/watch?v=K-y3gcN9c40">https://www.youtube.com/watch?v=K-y3gcN9c40</a>
+<strong>C. Videolu Anlatım</strong><br>
+<a target="_blank" rel="nofollow" href="https://www.youtube.com/watch?v=K-y3gcN9c40">https://www.youtube.com/watch?v=K-y3gcN9c40</a>
 
-<h3>2. SnapTube Apk Nasıl Türkçe Yapılır?</h3>
-<img src="http://www.snaptubeindir.com/snaptubeturkce.jpg">
+<h3>SnapTube Neden Google Play'den İndirilmiyor?</h3>
+Telif hakkıyla ilgili sorunlar oluşmasın diye Google politikaları gereği Youtube'dan video indiren uygulamalar Play Store'a yüklenmiyor. Uygulamamız tamamiyle güvenli ve virüssüzdür.
