@@ -4,16 +4,6 @@ title: SnapTube Hakkında Sık Sorulan Sorular
 permalink: /snaptube-nasil-kullanilir
 ---
 
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- KingBaglanti -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4590880399"
-     data-ad-format="link"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 <h2>SnapTube Nasıl Kullanılır?</h2>
 <ol>
 <li>SnapTube uygulamasının nasıl kurulduğunu "<a target="_blank" href="http://www.snaptubeindir.com/snaptube-apk-indir">Kurulum</a>" sayfamızdan öğrenebilirsiniz. Şimdi nasıl kullanılacağını anlatalım.</li>
