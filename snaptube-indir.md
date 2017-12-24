@@ -15,7 +15,7 @@ permalink: /snaptube-apk-indir
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <center>
-Ad: Bilinmeyen Kaynaklardan Apk Yüklemeye İzin Verme
+Ad: Bilinmeyen Kaynaklardan Apk Yüklemeye İzin Verme<br />
 Versiyon: 5.0.0 (En son)<br />
 Son Güncelleme: 19 Aralık 2017<br />
 Boyut: 9,04 MB<br />
