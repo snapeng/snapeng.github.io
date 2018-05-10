@@ -60,3 +60,14 @@ Once installed, you can simply go to the website and can play the video. The app
 <li>Our application will give you a warning "Allow loading from unknown sources". You can also see in the picture below. If you give this warning: Check Settings> Security> Allow unknown sources.</li>
 <li>The installation will be completed automatically and the icon of our application will come to the main screen of your device.</li>
      </ul>
+<center>
+     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Baglanti20090 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="9116964791"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
