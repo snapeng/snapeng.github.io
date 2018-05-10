@@ -4,20 +4,19 @@ title: Hakkımızda & İletişim
 permalink: /about/
 ---
 
-Sitemiz hiçbir maddi çıkar olmadan, tamamen ücretsiz olarak sadece kullanıcılarımıza yardımcı olmak amacıyla kurulmuştur. 
+SnapTube Official Website 2018
 
-
-<h3 id="i̇letişim">İletişim</h3>
+<h3 id="i̇letişim">Contact</h3>
 
 <form action="/">
 
-    <label for="fname">E-Posta</label>
-    <input type="text" id="fname" placeholder="E-Postanız" />
+    <label for="fname">E-Mail</label>
+    <input type="text" id="fname" placeholder="E-Mail" />
 
-    <label for="subject">Soru</label>
-    <textarea id="subject" placeholder="Sorunuz veya mesajınız.. Size e-posta adresinizden ulaşacağız." style="height:200px"></textarea>
+    <label for="subject">Question</label>
+    <textarea id="subject" placeholder="MEssage" style="height:200px"></textarea>
 
-    <input type="submit" value="Gönder" />
+    <input type="submit" value="Send" />
 
   </form>
 
