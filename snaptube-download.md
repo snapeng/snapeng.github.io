@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bilinmeyen Kaynaklara Nasıl İzin Verilir?
-permalink: /snaptube-apk-indir
+title: SnapTube APK Download 2018 Latest Version
+permalink: /snaptube-download
 ---
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
