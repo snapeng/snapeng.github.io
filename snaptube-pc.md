@@ -38,4 +38,4 @@ Furthermore, the videos gets downloaded in the background and in the mean while 
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 Virus Total: <span style="color:green;">Clean &#10004;</span><br />
-<a href="https://snaptube.plusapkz.com/snaptube-download"><button style="background: #cd000d; color: white; margin-bottom: 5px; display: block; font: 17px / 50px Arial; height: 50px; text-align: center; text-decoration: none; text-transform: uppercase; width: 190px;">DOWNLOAD</button></a></center>
+<a href="https://snaptube.plusapkz.com/snaptube-download"><button style="background: #cd000d; color: white; margin-bottom: 5px; display: block; font: 17px / 50px Arial; height: 50px; text-align: center; text-decoration: none; text-transform: uppercase; width: 190px;">DOWNLOAD</button></a>
